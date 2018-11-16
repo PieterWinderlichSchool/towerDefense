@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Tile
+  - Enemy
+  - WayPoint
+  - Land
+  - Road
+  - Bullet
   layers:
   - Default
   - TransparentFX
